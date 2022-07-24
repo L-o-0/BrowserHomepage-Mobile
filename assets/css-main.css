@@ -378,14 +378,14 @@ main{
 }
 
 .contained{
-    height: 100%;
-    width: 100%;
+    /* height: 100%; */
+    /* width: 100%; */
     margin: 0;
-    position: absolute;
-    top: 0;
-    left: 0;
+    /* position: absolute; */
+    /* top: 0; */
+    /* left: 0; */
     z-index: -100;
-	background-image: url("images/bg.png");
+	background-image: url("images/bg1.png");
 	background-repeat:no-repeat;
 	background-position:center;
 	/* background-size: 75%; */
@@ -1025,6 +1025,10 @@ body {
 
 .border-opacity-100 {
     --tw-border-opacity: 1 !important
+}
+
+.border-opacity-80 {
+    --tw-border-opacity: .8 !important
 }
 
 .border-opacity-40 {
