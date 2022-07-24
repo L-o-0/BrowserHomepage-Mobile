@@ -385,7 +385,7 @@ main{
     top: 0;
     left: 0;
     z-index: -100;
-	background-image: url("images/bg1.png");
+	background-image: url("images/bg.png");
 	background-repeat:no-repeat;
 	background-position:center;
 	/* background-size: 75%; */
